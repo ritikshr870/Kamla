@@ -1,0 +1,81 @@
+{
+  "storeName": "Kamla Shree - Complete Women Clothes Collection",
+  "categories": [
+    {
+      "name": "Saree",
+      "products": [
+        {
+          "id": 1,
+          "name": "Silk Saree",
+          "price": 2499,
+          "image": "https://i.ibb.co/6bgM7KX/silk-saree.jpg",
+          "description": "Elegant traditional silk saree with zari border."
+        },
+        {
+          "id": 2,
+          "name": "Cotton Saree",
+          "price": 1299,
+          "image": "https://i.ibb.co/vJpXj8V/cotton-saree.jpg",
+          "description": "Lightweight cotton saree perfect for daily wear."
+        }
+      ]
+    },
+    {
+      "name": "Suit",
+      "products": [
+        {
+          "id": 3,
+          "name": "Anarkali Suit",
+          "price": 3499,
+          "image": "https://i.ibb.co/BzQp6Hq/anarkali-suit.jpg",
+          "description": "Designer Anarkali suit for weddings & parties."
+        },
+        {
+          "id": 4,
+          "name": "Patiala Suit",
+          "price": 1999,
+          "image": "https://i.ibb.co/Vpp8s6F/patiala-suit.jpg",
+          "description": "Comfortable Patiala suit with dupatta."
+        }
+      ]
+    },
+    {
+      "name": "Dupatta",
+      "products": [
+        {
+          "id": 5,
+          "name": "Net Dupatta",
+          "price": 799,
+          "image": "https://i.ibb.co/MnNv5wG/net-dupatta.jpg",
+          "description": "Lightweight net dupatta with embroidery."
+        },
+        {
+          "id": 6,
+          "name": "Chiffon Dupatta",
+          "price": 599,
+          "image": "https://i.ibb.co/L0pP1hY/chiffon-dupatta.jpg",
+          "description": "Soft chiffon dupatta in vibrant colors."
+        }
+      ]
+    },
+    {
+      "name": "Lehenga",
+      "products": [
+        {
+          "id": 7,
+          "name": "Bridal Lehenga",
+          "price": 15999,
+          "image": "https://i.ibb.co/sKQvS0q/bridal-lehenga.jpg",
+          "description": "Heavy embroidered bridal lehenga with dupatta."
+        },
+        {
+          "id": 8,
+          "name": "Party Wear Lehenga",
+          "price": 7999,
+          "image": "https://i.ibb.co/6HCSqVw/party-lehenga.jpg",
+          "description": "Stylish lehenga for parties and receptions."
+        }
+      ]
+    }
+  ]
+}
